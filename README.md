@@ -1,8 +1,12 @@
 # algorizainternship
 
-To Do App(Sqflite & Cubit)
+To Do App After Update DarkMode, Taskdetails and Edit Tasks (Sqflite & Cubit) 
 
-https://user-images.githubusercontent.com/92960112/181411484-f92871a0-cef0-4aca-9a23-8676c0e709b3.mp4 
+https://user-images.githubusercontent.com/92960112/182595005-518b9d7a-872d-457a-879d-ef292645a889.mp4
+
+
+
+
 
 OnBoarding (Ui)
 
